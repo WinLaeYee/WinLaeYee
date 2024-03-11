@@ -5,21 +5,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kyawswarhtet&label=Profile%20views&color=0e75b6&style=flat" alt="kyawswarhtet" /> </p>
 
-- 🔭 I’m currently working on Modern Future IT.,Ltd as Senior Backend Developer (Node.js)
+- 🔭 I’m currently working on  Full Stack Developer at ITVisionHub.pte.,Ltd
  
-- 🔭 Former Senior Full Stack Developer at ITVisionHub.pte.,Ltd
+- 🔭 Former Senior Assistant at KBZ Bank Co.Ltd
 
 - 💬 Ask me about **Javascript, MERN Stack**
 
 - 👯 I’m looking to collaborate on **Web Development**
 
-- 🌱 I’m currently working with **Node.js, Express.js, Typescript, React.js, Redux, Next.js, Vue.js, Mongodb, PostgreSQL and MySql**
+- 🌱 I’m currently working with **Node.js, Express.js, Typescript, React.js, Redux, Next.js, Mongodb**
 
-- 📫 How to reach me **kyawswarhtet1119@gmail.com**
+- 📫 How to reach me **winlaeyee269@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/mr-kyaw-swar-htet-975b73221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kyaw-swar-htet-975b73221" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/win-lae-yee2040972b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kyaw-swar-htet-975b73221" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19852779/kyaw-swar-htet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:19852779" height="30" width="40" /></a>
 <a href="https://www.facebook.com/kyawswar.htet.10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/kyawswar.htet.10" height="30" width="40" /></a>
 </p>
