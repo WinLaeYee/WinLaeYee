@@ -1,9 +1,23 @@
 <p align="center">
-  <img style="width:8rem; height:auto" src="https://cdn.dribbble.com/users/1787323/screenshots/10091971/media/d43c019bfeff34be8816481e843ea8c1.png"/>
-</p>
+<img alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" height="280" />
+ <p/>
+<h1 align="center"> Hi! I'm Navodya <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
 
-<h1 align="center">Hi, I'm Win Lae Yee<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
-<!-- <h3 font-size="20" align="center">A passionate backend developer and a student from India.</h3> -->
+I'm Win Lae Yee, a passionate full stack developer 💻.
+
+<!-- TODO: Add last video link -->
+
+- :seedling: I’m currently learning about TypeScript.
+- 🤔 I’m looking for a job.
+- :speech_balloon: Ask me about anything.
+- 😄 Pronouns: She/Her.
+
+🤝 &nbsp; Connect with Me
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/win-lae-yee-2040972b4/)
+<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+
+<hr>
 
 
 - 🌱 I’m currently learning **MERN** <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
@@ -146,7 +160,7 @@
 
 <div style="margin-top:10px" align="center">
   <div>
-    <a  href="https://www.linkedin.com/in/khunkyaw-tunwin-157707254/" target="_blank">
+    <a  href="https://www.linkedin.com/in/win-lae-yee-2040972b4/" target="_blank">
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
     </a>
     <a href="https://twitter.com/example" target="_blank">
