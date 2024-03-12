@@ -157,6 +157,13 @@ I'm Win Lae Yee, a passionate full stack developer 💻.
 
 ----
 
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
+
+----
+
 <h3 align="center">Connect with me</h3>
 
 <div style="margin-top:10px" align="center">
@@ -173,6 +180,9 @@ I'm Win Lae Yee, a passionate full stack developer 💻.
   </div>
 </div>
 
+------
+Credit: [WinLaeYee](https://github.com/WinLaeYee)
 
+Last Edited on: 11/03/2024
 
 
