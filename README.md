@@ -1,7 +1,7 @@
 <p align="center">
 <img alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" height="280" />
  <p/>
-<h1 align="center"> Hi! I'm Navodya <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
+<h1 align="center"> Hi! I'm Win Lae Yee<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
 
 I'm Win Lae Yee, a passionate full stack developer 💻.
 
@@ -20,7 +20,7 @@ I'm Win Lae Yee, a passionate full stack developer 💻.
 <hr>
 
 
-- 🌱 I’m currently learning **MERN** <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
+- 🌱 I’m currently learning **MERN**  <img src="https://image.myanimelist.net/ui/0YNGMBN7CXMEk-P9BspU4WlXmBe_SGHSnNvwDnnlOFXgoK141ZQMZGqHOwW4COUaA-H7pn7b82XhWJ6H9RN-JR2r3Ga0y_Dm6qoNuOy4HQ_5pyojYSBxN_X8qJc9uVFAVlTXjzR6-iPXyJGc-YQoGztwdaIpDG-mFRbYMwZlW_Q" height="200" />
 
 - 👯 I’m looking to collaborate on **JS FRAMEWORK**
 
