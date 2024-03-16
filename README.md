@@ -6,11 +6,12 @@
 I'm Win Lae Yee, a passionate full stack developer 💻.
 
 <!-- TODO: Add last video link -->
-
-- :seedling: I’m currently learning about TypeScript.
+- 🔭 I’m currently working to become a Full Stack Developer
+- 🌱 I’m learning both Frontend Development and Backend
 - 🤔 I’m looking for a job.
+- 👯 I’m looking to collaborate with other content creators and developers
 - :speech_balloon: Ask me about anything.
-- 😄 Pronouns: She/Her.
+
 
 🤝 &nbsp; Connect with Me
 
